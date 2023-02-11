@@ -5,12 +5,15 @@
 
 
 ### `Main Criteria`:
-•	Implementation of a user registration and login system that securely stores and verifies user credentials.
-•	Implementation of the Admin Route for allowing only the Admin to see all users.
-•	Implementation of the home page design.
-•	Implementation of proper validation and error handling.
-•	Used JavaScript library(React.js) to make the form functional and handle form validation
+####	Implementation of a user registration and login system that securely stores and verifies user credentials.
+####	Implementation of the Admin Route for allowing only the Admin to see all users.
+####	Implementation of the home page design.
+####	Implementation of proper validation and error handling.
+####	Used JavaScript library(React.js) to make the form functional and handle form validation
 
 
 ### Deployment: firebase-hosting, vercel
 https://genesys-software-intern-task.web.app/
+
+### Admin Email: iftekharulislam.ridoy@gmail.com
+### Admin Pass: 123456789
