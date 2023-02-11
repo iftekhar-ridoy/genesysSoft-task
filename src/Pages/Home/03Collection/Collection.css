@@ -1,0 +1,9 @@
+.feature-pagination-2 {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+}
+
+.feature-pagination-2 .active {
+    background: white;
+}
